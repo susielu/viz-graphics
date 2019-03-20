@@ -1,0 +1,8 @@
+{
+  "name": "viz-graphics",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:susielu/viz-graphics.git",
+  "author": "Susie Lu",
+  "license": "Apache-2.0"
+}
